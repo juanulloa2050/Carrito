@@ -92,3 +92,12 @@ El diagrama completo con las conexiones se encuentra en el archivo **plano elect
 
 ![Plano electrico](Images/plano_electrico.png)
 *Plano electrico del carro.*
+
+
+## Reconocimientos
+
+Este proyecto no hubiera sido posible sin el esfuerzo y la dedicación de los siguientes miembros del grupo ASME:
+
+- Juan Sebastián Ulloa Mejía
+- Jorge Alberto Castellanos Rivillas
+- Juan David Hoyos Bernate
