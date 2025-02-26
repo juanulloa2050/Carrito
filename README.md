@@ -34,19 +34,25 @@ En este repositorio encontrarás el archivo fuente de Fusion 360, ubicado en la 
 ![Modelo 3D](Images/Modelo_3D.png)
 * Modelo 3D del carro.*
 
+![Despiece](Images/Despiece.png)  
+*Despiece del carro.*
+
 ## Ensamble
 
 Un punto clave en el proceso de ensamblaje son las **tuercas internas**, las cuales se incorporan directamente en las piezas impresas en 3D. En el proyecto de **Bambu Lab**, se automatizó la pausa de la impresora al llegar a la capa correspondiente, lo que facilita la inserción exacta de las tuercas antes de continuar con la siguiente capa de impresión. De esta manera, las piezas quedan listas para su ensamble sin necesidad de adhesivos adicionales o perforaciones posteriores, aumentando la solidez y la precisión del montaje.
 
 A continuación, se muestra la impresion del carro, donde se pueden apreciar las cavidades destinadas a estas tuercas:
 
-![Modelo 3D](Images/Modelo3D.png)  
-*Modelo 3D del carro.*
+![Impresion](Images/Tuercas)  
+*Impresion 3D del carro.*
 
 Una vez finalizada la impresión de todas las partes, se realiza el **ensamble mecánico**, encajando las piezas y fijándolas con tornillos y tuercas en los puntos de unión. Este proceso garantiza una estructura estable que mantiene la alineación correcta de cada componente, lo que resulta especialmente importante para la integración de motores, sensores y demás elementos electrónicos.
 
-![Modelo 3D](Images/Modelo3D.png)  
-*Modelo 3D del carro.*
+![Ensamble](Images/ensamble_fisico.png)  
+*Ensamble del carro.*
+
+![Ensamble](Images/parte_inferior.png)  
+*vista inferior del carro.*
 
 ## Electrónica
 
