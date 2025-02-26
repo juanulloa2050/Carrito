@@ -77,7 +77,7 @@ Una vez finalizada la impresión de todas las partes, se realiza el **ensamble m
   Muestra información en tiempo real.
 
 - **Servo SG90**  
-  Permite movimientos de giro o inclinación (por ejemplo, de un accesorio).
+  Permite movimientos de giro.
 
 - **Encoder rotatorio**  
   Se utiliza para interacciones manuales (navegación por menús, ajustes).
