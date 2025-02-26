@@ -29,10 +29,10 @@ En este repositorio encontrarás el archivo fuente de Fusion 360, ubicado en la 
 ### Imágenes del Modelo 3D
 
 ![Modelo 3D](Images/Modelo3D.png)
-*Modelo 3D del carro.*
+* Modelo 3D del carro.*
 
 ![Modelo 3D](Images/Modelo_3D.png)
-*Modelo 3D del carro.*
+* Modelo 3D del carro.*
 
 ## Ensamble
 
