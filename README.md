@@ -43,15 +43,15 @@ Un punto clave en el proceso de ensamblaje son las **tuercas internas**, las cua
 
 A continuación, se muestra la impresion del carro, donde se pueden apreciar las cavidades destinadas a estas tuercas:
 
-![Impresion](Images/Tuercas.png)  
+![Impresion](Images/Tuercas.jpg)  
 *Impresion 3D del carro.*
 
 Una vez finalizada la impresión de todas las partes, se realiza el **ensamble mecánico**, encajando las piezas y fijándolas con tornillos y tuercas en los puntos de unión. Este proceso garantiza una estructura estable que mantiene la alineación correcta de cada componente, lo que resulta especialmente importante para la integración de motores, sensores y demás elementos electrónicos.
 
-![Ensamble](Images/ensamble_fisico.png)  
+![Ensamble](Images/ensamble_fisico.jpg)  
 *Ensamble del carro.*
 
-![Ensamble](Images/parte_inferior.png)  
+![Ensamble](Images/parte_inferior.jpg)  
 *vista inferior del carro.*
 
 ## Electrónica
