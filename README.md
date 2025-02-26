@@ -114,7 +114,7 @@ La aplicación mostrada en la imagen fue **desarrollada desde cero en Android St
 
 Al estar construida en **Android Studio**, la aplicación se puede **ampliar o personalizar** fácilmente para futuras funciones, tales como la monitorización de datos de sensores, la captura de imágenes o la integración de rutinas de control autónomo. De este modo, el sistema completo (carro + app) sirve como plataforma de aprendizaje y experimentación, ideal para talleres y demostraciones académicas.  
 
-![Interfaz de la app](Images/APP.png)
+![Interfaz de la app](Images/APP.jpg)
 *Interfaz de la app.*
 
 ## Reconocimientos
