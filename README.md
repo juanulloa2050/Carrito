@@ -70,5 +70,5 @@ Los elementos se conectan de forma que la **ESP32** coordine las señales de con
 El diagrama completo con las conexiones se encuentra en el archivo **plano electrico.pdf**, disponible en este repositorio.
 
 
-![Plano electrico](Images/plano electrico.png)
+![Plano electrico](Images/plano_electrico.png)
 *Plano electrico del carro.*
