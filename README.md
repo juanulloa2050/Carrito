@@ -21,7 +21,7 @@ Gracias a su diseño modular y la versatilidad de la ESP32, el carro multifuncio
 
 ## Modelo 3D
 
-El modelo 3D fue creado utilizando Fusion 360, un software avanzado de diseño y modelado paramétrico. El diseño se enfocó en facilitar la impresión 3D, teniendo en cuenta aspectos como la disposición de soportes y la optimización del volumen de material. De esta forma, se logra un ensamble final resistente y, a la vez, ligero.
+El modelo 3D fue creado utilizando Fusion 360, un software avanzado de diseño y modelado paramétrico. El diseño se enfocó en facilitar la impresión 3D, teniendo en cuenta aspectos como la disposición de soportes y la optimización del volumen de material, la ubicación de tuercas y tornillos. De esta forma, se logra un ensamble final resistente y, a la vez, ligero.
 
 En este repositorio encontrarás el archivo fuente de Fusion 360, ubicado en la carpeta correspondiente a los modelos 3D. Puedes descargarlo y modificarlo según tus necesidades, ya sea para personalizar las dimensiones o añadir nuevas características al carro multifuncional.
 
@@ -35,6 +35,18 @@ En este repositorio encontrarás el archivo fuente de Fusion 360, ubicado en la 
 * Modelo 3D del carro.*
 
 ## Ensamble
+
+Un punto clave en el proceso de ensamblaje son las **tuercas internas**, las cuales se incorporan directamente en las piezas impresas en 3D. En el proyecto de **Bambu Lab**, se automatizó la pausa de la impresora al llegar a la capa correspondiente, lo que facilita la inserción exacta de las tuercas antes de continuar con la siguiente capa de impresión. De esta manera, las piezas quedan listas para su ensamble sin necesidad de adhesivos adicionales o perforaciones posteriores, aumentando la solidez y la precisión del montaje.
+
+A continuación, se muestra la impresion del carro, donde se pueden apreciar las cavidades destinadas a estas tuercas:
+
+![Modelo 3D](Images/Modelo3D.png)  
+*Modelo 3D del carro.*
+
+Una vez finalizada la impresión de todas las partes, se realiza el **ensamble mecánico**, encajando las piezas y fijándolas con tornillos y tuercas en los puntos de unión. Este proceso garantiza una estructura estable que mantiene la alineación correcta de cada componente, lo que resulta especialmente importante para la integración de motores, sensores y demás elementos electrónicos.
+
+![Modelo 3D](Images/Modelo3D.png)  
+*Modelo 3D del carro.*
 
 ## Electrónica
 
