@@ -93,6 +93,29 @@ El diagrama completo con las conexiones se encuentra en el archivo **plano elect
 ![Plano electrico](Images/plano_electrico.png)
 *Plano electrico del carro.*
 
+## APP
+
+La aplicación mostrada en la imagen fue **desarrollada desde cero en Android Studio** y representa tan solo **una de las múltiples funciones** que puede ofrecer el sistema. Su principal objetivo es proporcionar una **interfaz de control remoto** para el carro multifuncional, posibilitando acciones como:
+
+1. **Conexión al Carro**  
+   A través del botón “Buscar”, la aplicación explora dispositivos cercanos (vía Bluetooth) y muestra el nombre o la dirección MAC del carro. Al seleccionar la opción correspondiente, el usuario puede emparejarse con el carro para enviar y recibir datos en tiempo real.
+
+2. **Control de Movimiento**  
+   El panel central, con sus flechas y el botón circular, permite conducir el carro en distintas direcciones (adelante, atrás, izquierda, derecha), así como detenerlo o ajustar la velocidad si se integra esa funcionalidad en la programación del ESP32.
+
+3. **Inicio y Detención**  
+   El botón “Iniciar” habilita el control activo sobre el carro. Si se requiere, puede añadirse un botón o comando de “Detener” que corte toda comunicación de movimiento y deje el carro en reposo seguro.
+
+4. **Envío de Mensajes a la Pantalla LCD**  
+   Además de controlar el movimiento, la aplicación es capaz de **enviar texto** al **display LCD 20x4** instalado en el carro, lo que permite mostrar mensajes personalizados, instrucciones o cualquier otra información relevante para el usuario.
+
+5. **Identidad y Contexto**  
+   Se han incluido los logotipos de la **Universidad de La Sabana** y de **Open Campus** para destacar la finalidad educativa y el origen del proyecto. Este diseño busca que cualquier persona, incluso sin conocimientos avanzados de electrónica o programación, pueda interactuar de forma ágil y amigable con el dispositivo.
+
+Al estar construida en **Android Studio**, la aplicación se puede **ampliar o personalizar** fácilmente para futuras funciones, tales como la monitorización de datos de sensores, la captura de imágenes o la integración de rutinas de control autónomo. De este modo, el sistema completo (carro + app) sirve como plataforma de aprendizaje y experimentación, ideal para talleres y demostraciones académicas.  
+
+![Interfaz de la app](Images/APP.png)
+*Interfaz de la app.*
 
 ## Reconocimientos
 
